@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Book xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Title="The Little Prince" Author="Antoine de Saint-Exupéry">
+  <NumberOfPages>104</NumberOfPages>
+  <PublishingYear>2003</PublishingYear>
+</Book>
